@@ -88,7 +88,7 @@ STATICFILES_FINDERS = (
 
 # Make this unique, and don't share it with anybody.
 # http://www.miniwebtool.com/django-secret-key-generator/
-SECRET_KEY = '!!! paste your own secret key here !!!'
+SECRET_KEY = 'l6)cl#iwiewkj=+qqz$rbh5%g)3hewuq-x-!uyq^hb-u8$ac_g'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
