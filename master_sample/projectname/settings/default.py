@@ -159,7 +159,7 @@ EXTERNAL_APPS = (
 )
 
 LOCAL_APPS = (
-    'projectname.home',
+    'CSE360_Project.home',
 )
 
 # the order is important!
