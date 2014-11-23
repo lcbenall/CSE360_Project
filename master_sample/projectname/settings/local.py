@@ -1,9 +1,6 @@
 #! /usr/bin/env python2.7
 from default import *
-"""
-This is the local settings template file. So, do not modify this file.
-Instead, make a copy as "local.py" and set the development variables in it.
-"""
+
 # local settings
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
